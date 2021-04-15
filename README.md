@@ -342,7 +342,7 @@ C:\doit>python marks1.py
 
 ### while 반복문
 
-![image-20210415141634645](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210415141634645.png)
+![image-20210415141634645](https://user-images.githubusercontent.com/25717861/114825553-5699ad80-9e01-11eb-8079-4952d34f6bb2.png)
 
 
 
@@ -370,6 +370,5 @@ break
 continue 
 
 ![image-20210415152406620](https://user-images.githubusercontent.com/25717861/114823550-a32fb980-9dfe-11eb-9ecd-53912cd17094.png)
-
 
 
