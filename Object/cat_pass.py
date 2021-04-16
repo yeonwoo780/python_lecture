@@ -1,5 +1,6 @@
 class Cat:
-    pass
+    def meow(self):
+        print("미야옹~ 미야옹~")
 
 nabi = Cat()
-print(nabi)
+nabi.meow() # 나비라는 고양이 생성
